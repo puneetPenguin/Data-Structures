@@ -1,2 +1,2 @@
 # Competitive-Programming-Algorithms
-Algos for CP for reusability.
+Data Structures Implementations and Basic functionalities.
